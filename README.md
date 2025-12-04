@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Justin** — MERN + TypeScript web dev crafting smooth user experiences
 
-<!--
-**tsujin1/tsujin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner full-stack developer who loves clean interfaces, smooth interactions, and bringing ideas to life with modern web tools.  
+Every day I’m leveling up my skills and building projects that make the web feel nicer to use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- MERN + TypeScript side projects  
+- Improving UI/UX through better layouts, micro-interactions & clean design  
+- Deploying apps and learning best practices for hosting & scaling  
+
+---
+
+### 🤔 Currently Learning
+- Advanced React patterns  
+- Better API design with Node + Express  
+- UI/UX fundamentals to create smooth user flows  
+
+---
+
+### 🛠️ Tech Stack & Tools  
+**Frontend:** React, TypeScript, Tailwind CSS, Shadcn UI  
+**Backend:** Node.js, Express, MongoDB  
+**Deployment:** Vercel, Render  
+   
+---
+
+### ✨ What I Love
+- Smooth, intuitive user experiences  
+- Minimalist and clean UI design  
+- Watching projects evolve from idea → prototype → polished product  
+- Learning something new every day  
